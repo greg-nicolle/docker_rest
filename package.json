@@ -1,0 +1,14 @@
+{
+  "name": "docker_webapp",
+  "version": "0.0.1",
+  "description": "Nodejs webapp package with docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "greg",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^10.0.0"
+  }
+}
