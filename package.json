@@ -9,6 +9,8 @@
   "author": "greg",
   "license": "ISC",
   "dependencies": {
+    "good": "^6.3.0",
+    "good-console": "^5.0.3",
     "hapi": "^10.0.0"
   }
 }
